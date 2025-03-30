@@ -16,7 +16,7 @@
       <div>  
       <div class="main-container container-fluid">
       <div class="col-6">
-        <button type="submit" class="btn btn-primary">touch me and know about myself</button>
+        <button type="submit" class="btn btn-primary">yoyo</button>
       </div>
       </div>
     </div>
