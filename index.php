@@ -16,7 +16,20 @@
       <div>  
       <div class="main-container container-fluid">
       <div class="col-6">
-        <button type="submit" class="btn btn-primary">yoyo</button>
+      <div class="btn-group" role="group" aria-label="Button group with nested dropdown">
+        <button type="button" class="btn btn-primary">1</button>
+        <button type="button" class="btn btn-primary">2</button>
+
+      <div class="btn-group" role="group">
+          <button type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+            touch me
+          </button>
+            <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">login</a></li>
+            <li><a class="dropdown-item" href="#">signin</a></li>
+            </ul>
+      </div>
+      </div>
       </div>
       </div>
     </div>
