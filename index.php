@@ -17,8 +17,8 @@
       <div class="main-container container-fluid">
       <div class="col-6">
       <div class="btn-group" role="group" aria-label="Button group with nested dropdown">
-        <button type="button" class="btn btn-primary">1</button>
-        <button type="button" class="btn btn-primary">2</button>
+        <button type="button" class="btn btn-primary">home</button>
+        <button type="button" class="btn btn-primary">about</button>
 
       <div class="btn-group" role="group">
           <button type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
