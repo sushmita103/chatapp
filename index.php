@@ -29,7 +29,6 @@
             <li><a class="dropdown-item" href="#">signin</a></li>
             </ul>
       <div class="container-fluid">
-
       </div>
       </div>
       </div>
